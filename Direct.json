@@ -5,17 +5,17 @@
       "domain": [
         "zp.m-team.io",
         "wxapp.tc.qq.com"
-        "m-team.io",
-        "hdfans.org"
-        "hdtime.org",
-        "52pt.site"
-        "cyanbug.net",
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
+       ".zp.m-team.io",
         ".wxapp.tc.qq.com"
+        ".m-team.io",
+        ".hdfans.org"
+        ".hdtime.org",
+        ".52pt.site"
+        ".cyanbug.net",
       ]
     },
     {
