@@ -3,13 +3,13 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
+        "api.m-team.io",
         "wxapp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
+        ".api2.m-team.io",
         ".wxapp.tc.qq.com"
       ]
     },
